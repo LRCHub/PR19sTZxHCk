@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "STPR on STAGE",
+  "base_artist": "STPR Creators",
+  "createdAt": "2026-02-15T13:53:35.663005Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STPR on STAGE",
+      "artist": "STPR Creators",
+      "has_synced": false,
+      "path": "select/pl_01_STPR_on_STAGE_STPR_Creators.txt"
+    }
+  ]
+}
